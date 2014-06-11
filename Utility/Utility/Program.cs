@@ -10,7 +10,6 @@ namespace Utility
     {
         /// <summary>
         /// The main entry point for the application.
-		///PRAVEEN SINGH BORA
         /// </summary>
         [STAThread]
         static void Main()
